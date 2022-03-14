@@ -5,5 +5,5 @@ docker-compose1.yml is used to install WP + MySQL (without network).
 Network nginx-proxy is used for reverse proxy (http) if you want to build multiple website in docker with different port.
 
 <b>Note:</b>
-Database should be created manually first before running this docker file.
-DB Collation: <code>utf8mb4_unicode_ci</code>
+<br>Database should be created manually first before running this docker file.
+<br>DB Collation: <code>utf8mb4_unicode_ci</code>
